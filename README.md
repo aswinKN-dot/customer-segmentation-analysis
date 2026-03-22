@@ -36,5 +36,4 @@ Mall_Customers.csv → Dataset
 customer_segmentation.ipynb → Analysis notebook  
 README.md → Project documentation
 
-#Author
--Aswin K N
+
